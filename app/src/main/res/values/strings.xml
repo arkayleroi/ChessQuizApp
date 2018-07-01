@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Chess Quiz App</string>
+
+    <!--String for user's name-->
+    <string name="enter_username">Enter username:</string>
+
+    <!--String for quiz title - to be displayed at the top of the activity-->
+    <string name="title_chess_quiz">Chess Quiz</string>
+
+    <!--String for Hello greeter text on the MainActivity-->
+    <string name="hello">Hello,</string>
+
+    <!--String for a brief information and instruction for the app-->
+    <string name="quiz_intro">Test your chess skills by simply answering the questions that follows. \nBegin by inputing a name in the field provided and then proceed to answer the questions. \n\nGood luck!
+    </string>
+
+    <!--String for username hint-->
+    <string name="username_example">e.g prodigy</string>
+
+    <!-- Question 1 text -->
+    <string name="question1">1. Can a king castle while on check?</string>
+
+    <!-- Question 2 text -->
+    <string name="question2">2. Which piece can be promoted when it reaches the last square on the opposite side?</string>
+
+    <!-- Question 3 text -->
+    <string name="question3">3. Who is the current chess world champion?</string>
+
+    <!-- Question 4 text -->
+    <string name="question4">4. What\'s the best move for white?</string>
+
+    <!-- Question 5 text -->
+    <string name="question5">5. A game is declared a draw for which of the following?</string>
+
+    <!-- Question 6 text -->
+    <string name="question6">6. When your move attacks an opponent\'s king, what do you call out?</string>
+
+    <!-- Question 7 text -->
+    <string name="question7">7. How many boxes does the Chess board have?</string>
+
+    <!-- Question 8 text -->
+    <string name="question8">8. What is the notation for queenside castling (castle long)?</string>
+
+
+    <!-- Strings for Options-->
+    <!-- String for "yes"-->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- String for king-->
+    <string name="king">King</string>
+
+    <!-- String for pawn -->
+    <string name="pawn">Pawn</string>
+
+    <!-- String for bishop -->
+    <string name="bishop">Bishop</string>
+
+    <!-- String for rookie -->
+    <string name="rookie">Rookie</string>
+
+    <!-- String for Hikaru Nakamura -->
+    <string name="nakamura">Hikaru Nakamura</string>
+
+    <!-- String for Magnus Carlsen -->
+    <string name="carlsen">Magnus Carlsen</string>
+
+    <!-- String for Xiangzhi Bu -->
+    <string name="bu">Xiangzhi Bu</string>
+
+    <!-- String for Hikaru Nakamura -->
+    <string name="kramnik">Vladmir Kramnik</string>
+
+    <!-- String for Nf7-->
+    <string name="nf7">Nf7</string>
+
+    <!-- String for Qg8+-->
+    <string name="qg8">Qg8+</string>
+
+    <!-- String for Qxg5 -->
+    <string name="qxg5">Qxg5</string>
+
+    <!-- String for Qxb7 -->
+    <string name="qxb7">Qxb7</string>
+
+    <!-- String for stalemate -->
+    <string name="stalemate">Stalemate</string>
+
+    <!-- String for stalemate -->
+    <string name="repetition">Threefold repetition</string>
+
+    <!-- String for mutal agreement -->
+    <string name="agreement">Mutual agreement</string>
+
+    <!-- String for illegal move -->
+    <string name="illegal">Illegal move</string>
+</resources>
